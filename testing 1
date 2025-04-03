@@ -4,9 +4,9 @@
 name = input("What is your name? ")
 age = int(input("How old are you? "))
 
-# Calculate the age in 5 years
-age_in_5_years = age + 5
+# Calculate the age in 50 years
+age_in_50_years = age + 50
 
 # Print the result
 print(f"Hello {name}! You are {age} years old now.")
-print(f"In 5 years, you will be {age_in_5_years} years old.")
+print(f"In 5 years, you will be {age_in_50_years} years old.")
